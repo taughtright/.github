@@ -10,4 +10,4 @@ The labs trained the model. TaughtRight trains your agent.
 
 Built on UTL, a unified theory of learning.
 
-Coming soon at [taughtright.ai](https://taughtright.ai) · [@taughtright.ai on Bluesky](https://bsky.app/profile/taughtright.ai) · hello@taughtright.ai
+Coming soon at [taughtright.ai](https://taughtright.ai) · [Bluesky @taughtright.ai](https://bsky.app/profile/taughtright.ai) · [X @taughtrightai](https://x.com/taughtrightai) · [Hugging Face](https://huggingface.co/taughtright) · hello@taughtright.ai
